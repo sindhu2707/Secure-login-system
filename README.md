@@ -133,9 +133,6 @@ Based on the verification, you will receive a message indicating whether access 
 
 
 
-# Author
-Michele Regina Bora <br/>
-https://www.linkedin.com/in/michele-regina-bora/
 
 
 
